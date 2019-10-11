@@ -1,0 +1,39 @@
+.numero, .resultado {
+    background-color: orange;
+    height: 3rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+#adição {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+#subtração {
+    background-color:gray;
+    color:black;
+    font-weight: bold;
+    text-align: left;
+}
+#multiplicação {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+#divisão {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+#potenciação {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+input {
+    text-align: right
+}
